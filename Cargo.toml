@@ -1,0 +1,11 @@
+[package]
+name = "utc"
+description = "Displays the current coordinated universal date and time."
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+documentation = "https://docs.rs/utc"
+homepage = "https://github.com/nixpulvis/utc"
+
+[dependencies]
+time = "^0.1"
